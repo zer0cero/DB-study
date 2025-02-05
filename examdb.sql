@@ -1406,7 +1406,7 @@ INSERT INTO 구매문서 VALUES
 */
 
 DROP TABLE IF EXISTS 구색리스트;
-CREATE TABLE 구색라스트(
+CREATE TABLE 구색리스트(
     상점명 VARCHAR(255),
     상품 VARCHAR(255)
 );

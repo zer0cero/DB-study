@@ -11,10 +11,10 @@ DROP TABLE IF EXISTS 학생마스터;
 CREATE TABLE 학생마스터 (
     학생번호 CHAR(5) PRIMARY KEY,
     이름 VARCHAR(255),
-    학교지역 VARCHAR(255)
+    캠퍼스 VARCHAR(255)
 );
 
-INSERT INTO 학생마스터(학생번호, 이름, 학교지역) VALUES
+INSERT INTO 학생마스터(학생번호, 이름, 캠퍼스) VALUES
 ('C0001', '이철순', '강남구'),
 ('C0002', '김기리', '종로구'),
 ('C0003', '홍명동', '서초구'),
