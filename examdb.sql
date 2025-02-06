@@ -260,7 +260,7 @@ INSERT INTO courses (student_id, course) VALUES ('C0076','국어'),('C0076','수
 INSERT INTO courses (student_id, course) VALUES ('C0077','국어'),('C0077','영어'),('C0077','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0078','국어'),('C0078','영어'),('C0078','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0079','국어'),('C0079','영어'),('C0079','수학');
-INSERT INTO courses (student_id, course) VALUES ('C0010','국어'),('C0010','영어'),('C0010','수학');
+INSERT INTO courses (student_id, course) VALUES ('C0080','국어'),('C0080','영어'),('C0080','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0081','영어'),('C0081','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0082','영어'),('C0082','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0083','국어'),('C0083','영어'),('C0083','수학');
@@ -270,7 +270,7 @@ INSERT INTO courses (student_id, course) VALUES ('C0086','영어'),('C0086','수
 INSERT INTO courses (student_id, course) VALUES ('C0087','영어'),('C0087','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0088','국어'),('C0088','영어'),('C0088','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0089','국어'),('C0089','영어'),('C0089','수학');
-INSERT INTO courses (student_id, course) VALUES ('C0010','영어'),('C0010','수학');
+INSERT INTO courses (student_id, course) VALUES ('C0090','영어'),('C0090','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0091','국어'),('C0091','영어'),('C0091','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0092','국어'),('C0092','영어'),('C0092','수학');
 INSERT INTO courses (student_id, course) VALUES ('C0093','국어'),('C0093','영어'),('C0093','수학');
@@ -406,7 +406,7 @@ INSERT INTO exams VALUES ('C0076',41,'국어',26),('C0076',41,'영어',50),('C00
 INSERT INTO exams VALUES ('C0077',41,'국어',66),('C0077',41,'영어',36),('C0077',41,'수학',35);
 INSERT INTO exams VALUES ('C0078',41,'국어',33),('C0078',41,'영어',55),('C0078',41,'수학',27);
 INSERT INTO exams VALUES ('C0079',41,'국어',74),('C0079',41,'영어',69),('C0079',41,'수학',81);
-INSERT INTO exams VALUES ('C0010',41,'국어',81),('C0010',41,'영어',61),('C0010',41,'수학',76);
+INSERT INTO exams VALUES ('C0080',41,'국어',81),('C0080',41,'영어',61),('C0080',41,'수학',76);
 INSERT INTO exams VALUES ('C0081',41,'국어',99),('C0081',41,'영어',82),('C0081',41,'수학',95);
 INSERT INTO exams VALUES ('C0082',41,'국어',70),('C0082',41,'영어',83),('C0082',41,'수학',70);
 INSERT INTO exams VALUES ('C0083',41,'국어',74),('C0083',41,'영어',74),('C0083',41,'수학',85);
@@ -416,7 +416,7 @@ INSERT INTO exams VALUES ('C0086',41,'국어',62),('C0086',41,'영어',42),('C00
 INSERT INTO exams VALUES ('C0087',41,'국어',81),('C0087',41,'영어',96),('C0087',41,'수학',89);
 INSERT INTO exams VALUES ('C0088',41,'국어',95),('C0088',41,'영어',70),('C0088',41,'수학',77);
 INSERT INTO exams VALUES ('C0089',41,'국어',77),('C0089',41,'영어',88),('C0089',41,'수학',93);
-INSERT INTO exams VALUES ('C0010',41,'국어',27),('C0010',41,'영어',60),('C0010',41,'수학',64);
+INSERT INTO exams VALUES ('C0090',41,'국어',27),('C0090',41,'영어',60),('C0090',41,'수학',64);
 INSERT INTO exams VALUES ('C0091',41,'국어',82),('C0091',41,'영어',81),('C0091',41,'수학',86);
 INSERT INTO exams VALUES ('C0092',41,'국어',63),('C0092',41,'영어',69),('C0092',41,'수학',74);
 INSERT INTO exams VALUES ('C0093',41,'국어',79),('C0093',41,'영어',84),('C0093',41,'수학',82);
@@ -529,7 +529,7 @@ INSERT INTO exams VALUES ('C0076',42,'국어',52),('C0076',42,'영어',52),('C00
 INSERT INTO exams VALUES ('C0077',42,'국어',40),('C0077',42,'영어',34),('C0077',42,'수학',52);
 INSERT INTO exams VALUES ('C0078',42,'국어',40),('C0078',42,'영어',51),('C0078',42,'수학',67);
 INSERT INTO exams VALUES ('C0079',42,'국어',78),('C0079',42,'영어',73),('C0079',42,'수학',85);
-INSERT INTO exams VALUES ('C0010',42,'국어',71),('C0010',42,'영어',67),('C0010',42,'수학',70);
+INSERT INTO exams VALUES ('C0080',42,'국어',71),('C0080',42,'영어',67),('C0080',42,'수학',70);
 INSERT INTO exams VALUES ('C0081',42,'국어',78),('C0081',42,'영어',95),('C0081',42,'수학',81);
 INSERT INTO exams VALUES ('C0082',42,'국어',76),('C0082',42,'영어',85),('C0082',42,'수학',78);
 INSERT INTO exams VALUES ('C0083',42,'국어',63),('C0083',42,'영어',78),('C0083',42,'수학',65);
@@ -539,7 +539,7 @@ INSERT INTO exams VALUES ('C0086',42,'국어',38),('C0086',42,'영어',69),('C00
 INSERT INTO exams VALUES ('C0087',42,'국어',91),('C0087',42,'영어',97),('C0087',42,'수학',92);
 INSERT INTO exams VALUES ('C0088',42,'국어',85),('C0088',42,'영어',84),('C0088',42,'수학',69);
 INSERT INTO exams VALUES ('C0089',42,'국어',88),('C0089',42,'영어',85),('C0089',42,'수학',98);
-INSERT INTO exams VALUES ('C0010',42,'국어',39),('C0010',42,'영어',53),('C0010',42,'수학',66);
+INSERT INTO exams VALUES ('C0090',42,'국어',39),('C0090',42,'영어',53),('C0090',42,'수학',66);
 INSERT INTO exams VALUES ('C0091',42,'국어',68),('C0091',42,'영어',85),('C0091',42,'수학',95);
 INSERT INTO exams VALUES ('C0092',42,'국어',62),('C0092',42,'영어',62),('C0092',42,'수학',70);
 INSERT INTO exams VALUES ('C0093',42,'국어',98),('C0093',42,'영어',94),('C0093',42,'수학',83);
@@ -649,7 +649,7 @@ INSERT INTO exams VALUES ('C0076',43,'국어',52),('C0076',43,'영어',69),('C00
 INSERT INTO exams VALUES ('C0077',43,'국어',69),('C0077',43,'영어',41),('C0077',43,'수학',45);
 INSERT INTO exams VALUES ('C0078',43,'국어',52),('C0078',43,'영어',63),('C0078',43,'수학',40);
 INSERT INTO exams VALUES ('C0079',43,'국어',70),('C0079',43,'영어',79),('C0079',43,'수학',79);
-INSERT INTO exams VALUES ('C0010',43,'국어',67),('C0010',43,'영어',72),('C0010',43,'수학',81);
+INSERT INTO exams VALUES ('C0080',43,'국어',67),('C0080',43,'영어',72),('C0080',43,'수학',81);
 INSERT INTO exams VALUES ('C0081',43,'국어',86),('C0081',43,'영어',84),('C0081',43,'수학',99);
 INSERT INTO exams VALUES ('C0082',43,'국어',78),('C0082',43,'영어',80),('C0082',43,'수학',73);
 INSERT INTO exams VALUES ('C0083',43,'국어',81),('C0083',43,'영어',82),('C0083',43,'수학',72);
@@ -659,7 +659,7 @@ INSERT INTO exams VALUES ('C0086',43,'국어',49),('C0086',43,'영어',65),('C00
 INSERT INTO exams VALUES ('C0087',43,'국어',99),('C0087',43,'영어',84),('C0087',43,'수학',100);
 INSERT INTO exams VALUES ('C0088',43,'국어',95),('C0088',43,'영어',78),('C0088',43,'수학',68);
 INSERT INTO exams VALUES ('C0089',43,'국어',88),('C0089',43,'영어',94),('C0089',43,'수학',84);
-INSERT INTO exams VALUES ('C0010',43,'국어',65),('C0010',43,'영어',33),('C0010',43,'수학',44);
+INSERT INTO exams VALUES ('C0090',43,'국어',65),('C0090',43,'영어',33),('C0090',43,'수학',44);
 INSERT INTO exams VALUES ('C0091',43,'국어',68),('C0091',43,'영어',74),('C0091',43,'수학',94);
 INSERT INTO exams VALUES ('C0092',43,'국어',83),('C0092',43,'영어',83),('C0092',43,'수학',76);
 INSERT INTO exams VALUES ('C0093',43,'국어',86),('C0093',43,'영어',85),('C0093',43,'수학',84);
@@ -765,7 +765,7 @@ INSERT INTO exams VALUES ('C0076',44,'국어',57),('C0076',44,'영어',40),('C00
 INSERT INTO exams VALUES ('C0077',44,'국어',68),('C0077',44,'영어',56),('C0077',44,'수학',56);
 INSERT INTO exams VALUES ('C0078',44,'국어',46),('C0078',44,'영어',46),('C0078',44,'수학',42);
 INSERT INTO exams VALUES ('C0079',44,'국어',74),('C0079',44,'영어',79),('C0079',44,'수학',69);
-INSERT INTO exams VALUES ('C0010',44,'국어',84),('C0010',44,'영어',81),('C0010',44,'수학',71);
+INSERT INTO exams VALUES ('C0080',44,'국어',84),('C0080',44,'영어',81),('C0080',44,'수학',71);
 INSERT INTO exams VALUES ('C0081',44,'국어',85),('C0081',44,'영어',99),('C0081',44,'수학',90);
 INSERT INTO exams VALUES ('C0082',44,'국어',85),('C0082',44,'영어',76),('C0082',44,'수학',76);
 INSERT INTO exams VALUES ('C0083',44,'국어',70),('C0083',44,'영어',86),('C0083',44,'수학',87);
@@ -775,7 +775,7 @@ INSERT INTO exams VALUES ('C0086',44,'국어',49),('C0086',44,'영어',70),('C00
 INSERT INTO exams VALUES ('C0087',44,'국어',85),('C0087',44,'영어',95);
 INSERT INTO exams VALUES ('C0088',44,'국어',93),('C0088',44,'영어',80),('C0088',44,'수학',65);
 INSERT INTO exams VALUES ('C0089',44,'국어',94),('C0089',44,'영어',85),('C0089',44,'수학',90);
-INSERT INTO exams VALUES ('C0010',44,'국어',70),('C0010',44,'영어',46),('C0010',44,'수학',65);
+INSERT INTO exams VALUES ('C0090',44,'국어',70),('C0090',44,'영어',46),('C0090',44,'수학',65);
 INSERT INTO exams VALUES ('C0091',44,'수학',86);
 INSERT INTO exams VALUES ('C0092',44,'국어',78),('C0092',44,'영어',73),('C0092',44,'수학',78);
 INSERT INTO exams VALUES ('C0093',44,'국어',96),('C0093',44,'영어',98),('C0093',44,'수학',89);
@@ -883,7 +883,7 @@ INSERT INTO exams VALUES ('C0076',45,'국어',63),('C0076',45,'영어',59),('C00
 INSERT INTO exams VALUES ('C0077',45,'국어',66),('C0077',45,'영어',58),('C0077',45,'수학',67);
 INSERT INTO exams VALUES ('C0078',45,'국어',71),('C0078',45,'영어',72),('C0078',45,'수학',68);
 INSERT INTO exams VALUES ('C0079',45,'국어',70),('C0079',45,'영어',82),('C0079',45,'수학',78);
-INSERT INTO exams VALUES ('C0010',45,'국어',77),('C0010',45,'영어',88),('C0010',45,'수학',89);
+INSERT INTO exams VALUES ('C0080',45,'국어',77),('C0080',45,'영어',88),('C0080',45,'수학',89);
 INSERT INTO exams VALUES ('C0081',45,'국어',97),('C0081',45,'영어',99),('C0081',45,'수학',83);
 INSERT INTO exams VALUES ('C0082',45,'국어',87),('C0082',45,'영어',81),('C0082',45,'수학',83);
 INSERT INTO exams VALUES ('C0083',45,'국어',90),('C0083',45,'영어',75),('C0083',45,'수학',71);
@@ -893,7 +893,7 @@ INSERT INTO exams VALUES ('C0086',45,'국어',64),('C0086',45,'영어',63),('C00
 INSERT INTO exams VALUES ('C0087',45,'국어',95),('C0087',45,'영어',84),('C0087',45,'수학',98);
 INSERT INTO exams VALUES ('C0088',45,'국어',86),('C0088',45,'영어',77),('C0088',45,'수학',92);
 INSERT INTO exams VALUES ('C0089',45,'국어',85),('C0089',45,'영어',85),('C0089',45,'수학',83);
-INSERT INTO exams VALUES ('C0010',45,'국어',59),('C0010',45,'영어',62),('C0010',45,'수학',57);
+INSERT INTO exams VALUES ('C0090',45,'국어',59),('C0090',45,'영어',62),('C0090',45,'수학',57);
 INSERT INTO exams VALUES ('C0091',45,'국어',76),('C0091',45,'영어',85),('C0091',45,'수학',90);
 INSERT INTO exams VALUES ('C0092',45,'국어',87),('C0092',45,'영어',88),('C0092',45,'수학',85);
 INSERT INTO exams VALUES ('C0093',45,'국어',90),('C0093',45,'영어',99),('C0093',45,'수학',85);
